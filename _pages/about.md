@@ -19,22 +19,26 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at the **Future Network of Intelligence Institute (FNii)**,
-**The Chinese University of Hong Kong, Shenzhen**, where I have been pursuing
-my Ph.D. degree since September 2023.
+I am a Ph.D. student in **Computer and Information Engineering**
+at the **School of Science and Engineering, The Chinese University of Hong Kong,
+Shenzhen**, where I have been working under the supervision of
+**Prof. Shuguang Cui** since September 2023.
 
-My research focuses on **semantic communication**, **large language models
-(LLMs)**, **intelligent agents**, and **deep learning for wireless systems**.
+My research focuses on **multi-task semantic communication** for wireless
+image, speech, and video transmission. My work combines generative models,
+large language models (LLMs), and intelligent agents to develop
+task-oriented communication systems.
 
-My current work studies how generative models, LLMs, and intelligent agents can
-be integrated into semantic communication systems. I am particularly interested
-in task-oriented communication, multimodal information transmission, semantic
-agents for wireless systems, and LLM-assisted communication over future networks.
+I am particularly interested in cloud-edge-device collaborative semantic
+communication, agentic semantic communication architectures, LLM-enabled
+wireless systems, and adaptive transmission under changing channel conditions,
+task requirements, and network resources.
 
 [Google Scholar](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
 &nbsp;·&nbsp;
+[Download CV](/YuanWeiwen.github.io/files/CV.pdf)
+&nbsp;·&nbsp;
 [Email](mailto:223010145@link.cuhk.edu.cn)
-
 <span class='anchor' id='research'></span>
 
 # Research
