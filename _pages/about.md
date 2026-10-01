@@ -19,53 +19,64 @@ redirect_from:
 
 # About Me
 
-I am [a Ph.D. student / research assistant / researcher] at
-**The Chinese University of Hong Kong, Shenzhen**.
+I am a Ph.D. student at the **Future Network of Intelligence Institute (FNii)**,
+**The Chinese University of Hong Kong, Shenzhen**, where I have been pursuing
+my Ph.D. degree since September 2023.
 
-My research focuses on **semantic communication**, **deep learning**,
-and **intelligent wireless communication systems**.
+My research focuses on **semantic communication**, **large language models
+(LLMs)**, **intelligent agents**, and **deep learning for wireless systems**.
 
-I am particularly interested in developing communication systems that
-can transmit and recover the semantic information of multimodal data,
-including images, speech, and other complex signals.
-
-I am also interested in the integration of large language models,
-generative models, and intelligent agents with next-generation
-wireless communication systems.
+My current work studies how generative models, LLMs, and intelligent agents can
+be integrated into semantic communication systems. I am particularly interested
+in task-oriented communication, multimodal information transmission, semantic
+agents for wireless systems, and LLM-assisted communication over future networks.
 
 [Google Scholar](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
 &nbsp;·&nbsp;
-[Download CV](/files/CV.pdf)
+[Email](mailto:223010145@link.cuhk.edu.cn)
 
 <span class='anchor' id='research'></span>
 
 # Research
 
-My current research interests include:
+My research interests include:
 
 - **Semantic Communication:** semantic representation, semantic coding,
-  and task-oriented communication.
+  task-oriented communication, and communication efficiency.
 
-- **Generative Semantic Communication:** generative models for image,
-  speech, and multimodal information transmission.
+- **Generative Semantic Communication:** generative models for image, speech,
+  and multimodal information transmission.
 
-- **Intelligent Wireless Agents:** large language models and semantic
-  agents for adaptive wireless communication.
+- **LLM-enabled Wireless Systems:** using large language models for semantic
+  understanding, reasoning, and communication system design.
 
-- **Deep Learning for Wireless Systems:** deep learning methods for
-  efficient and reliable communication over wireless channels.
+- **Intelligent Semantic Agents:** agent-based communication systems that can
+  adapt to different tasks, environments, and channel conditions.
+
+- **Deep Learning for Wireless Communications:** deep learning methods for
+  reliable and efficient communication over future wireless networks.
 
 <span class='anchor' id='news'></span>
 
 # News
 
-- *2026*: Several papers on semantic communication and intelligent
-  semantic agents were published or accepted.
+- *25 Aug 2026*: Our paper **“Semantic-Aware Intelligent Agent for Multi-Task
+  Image Communications”** was accepted by *IEEE Transactions on Cognitive
+  Communications and Networking (TCCN)*.
 
-- *2025*: Research on generative semantic communication for image
-  transmission and large semantic agents was presented at IEEE conferences.
+- *Jun 2026*: Our paper **“AudioLLM-Enabled Semantic Communication for Multi-Task
+  Speech Transmission”** was accepted by *IEEE Transactions on Consumer
+  Electronics (TCE)*.
 
-[请继续添加你的入学、获奖、实习、论文接收等真实消息]
+- *Sep 2026*: Our tutorial paper **“Mobile Edge Computing with
+  Retrieval-Augmented Large Language Models: A Tutorial”** was accepted by
+  *IEEE Transactions on Consumer Electronics (TCE)*.
+
+- *May 2025*: Our paper **“Large Semantic Agents for Wireless Image
+  Transmission”** was accepted by the *2025 IEEE SPAWC Workshop*.
+
+- *Sep 2023*: I started my Ph.D. study at **The Chinese University of Hong Kong,
+  Shenzhen**.
 
 <span class='anchor' id='publications'></span>
 
@@ -73,70 +84,127 @@ My current research interests include:
 
 ## 2026
 
-**Semantic-Aware Intelligent Agent for Multi-Task Image Communications**  
-Weiwen Yuan, Jinke Ren, Xuhui Zhang, Tianqi Jiang, Ye Zhang, Rui Sun, Shuguang Cui  
-*IEEE Transactions on Cognitive Communications and Networking*, 2026  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:IjCSPb-OGe4C) · [Paper](请替换为论文链接)
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/lisa.jpg' alt='Semantic-Aware Intelligent Agent for Multi-Task Image Communications' width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
 
-**AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission**  
-Weiwen Yuan, Jiahao Zheng, Jinke Ren, Xuhui Zhang, Yanyan Shen, Zheng Xing, Shuqiang Wang, Shuguang Cui  
-*IEEE Transactions on Consumer Electronics*, 2026  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:qjMakFHDy7sC) · [Paper](请替换为论文链接)
+**Semantic-Aware Intelligent Agent for Multi-Task Image Communications**
 
-**Mobile Edge Computing with Retrieval-Augmented Large Language Models: A Tutorial**  
-Runtao Ren, Weiwen Yuan, Tianqi Jiang, Xuhui Zhang, Yinyu Wu, Jinke Ren, Zheng Xing, Chunjie Wang, Huijun Xing, Yanyan Shen, Shuqiang Wang, Kim Fung Tsang  
-*IEEE Transactions on Consumer Electronics*, 2026  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:UeHWp8X0CEIC) · [Paper](请替换为论文链接)
+Weiwen Yuan, Jinke Ren, Xuhui Zhang, Tianqi Jiang, Ye Zhang, Rui Sun, Shuguang Cui
 
-**Generative Semantic Communication: Architectures, Technologies, and Applications**  
-Jinke Ren, Yaping Sun, Hongyang Du, **Weiwen Yuan**, Chongjie Wang, Xianda Wang, Yingbin Zhou, Ziwei Zhu, Fangxin Wang, Shuguang Cui  
-*Engineering*, 2026  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u-x6o8ySG0sC) · [Paper](请替换为论文链接)
+*IEEE Transactions on Cognitive Communications and Networking*, 2026
+
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:IjCSPb-OGe4C)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/audiollm.jpg' alt='AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission' width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
+
+**AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission**
+
+Weiwen Yuan, Jiahao Zheng, Jinke Ren, Xuhui Zhang, Yanyan Shen, Zheng Xing, Shuqiang Wang, Shuguang Cui
+
+*IEEE Transactions on Consumer Electronics*, 2026
+
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:qjMakFHDy7sC)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/rag-mec.jpg' alt='Retrieval-Augmented Large Language Models for Mobile Edge Computing' width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
+
+**Mobile Edge Computing with Retrieval-Augmented Large Language Models: A Tutorial**
+
+Runtao Ren, **Weiwen Yuan**, Tianqi Jiang, Xuhui Zhang, Yinyu Wu, Jinke Ren, Zheng Xing, Chunjie Wang, Huijun Xing, Yanyan Shen, Shuqiang Wang, Kim Fung Tsang
+
+*IEEE Transactions on Consumer Electronics*, 2026
+
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:UeHWp8X0CEIC)
+
+</div>
+</div>
 
 ## 2025
 
-**Generative Semantic Communication for Joint Image Transmission and Segmentation**  
-Weiwen Yuan, Jinke Ren, Chongjie Wang, Ruichen Zhang, Jun Wei, Dong In Kim, Shuguang Cui  
-*2025 IEEE International Conference on Communications Workshops*, 2025  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u5HHmVD_uO8C) · [Paper](请替换为论文链接)
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/large-semantic-agents.jpg' alt='Large Semantic Agents for Wireless Image Transmission' width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
 
-**Large Semantic Agents for Wireless Image Transmission**  
-Weiwen Yuan, Jinke Ren, Rui Sun, Yatong Han, Shuguang Cui  
-*2025 IEEE SPAWC Workshop*, 2025  
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:9yKSN-GCB0IC) · [Paper](请替换为论文链接)
+**Large Semantic Agents for Wireless Image Transmission**
+
+Weiwen Yuan, Jinke Ren, Rui Sun, Yatong Han, Shuguang Cui
+
+*2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence
+for Wireless Communications (SPAWC)*, 2025
+
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:9yKSN-GCB0IC)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/generative-semantic.jpg' alt='Generative Semantic Communication for Joint Image Transmission and Segmentation' width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
+
+**Generative Semantic Communication for Joint Image Transmission and Segmentation**
+
+Weiwen Yuan, Jinke Ren, Chongjie Wang, Ruichen Zhang, Jun Wei, Dong In Kim, Shuguang Cui
+
+*2025 IEEE International Conference on Communications Workshops*, 2025
+
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u5HHmVD_uO8C)
+
+</div>
+</div>
 
 <span class='anchor' id='education'></span>
 
 # Education
 
-- *[起止年份]*, **[博士学位名称]**, [具体院系],  
-  The Chinese University of Hong Kong, Shenzhen.
+- *Sep 2023 – Present*: **Ph.D. Student**, Future Network of Intelligence Institute
+  (FNii), The Chinese University of Hong Kong, Shenzhen.
 
-- *[起止年份]*, **[硕士学位名称]**, [学校名称].
+- *Sep 2022 – Jul 2023*: **Master of Electronic Engineering**,
+  The Chinese University of Hong Kong.
 
-- *[起止年份]*, **[本科学位名称]**, [学校名称].
+- *Sep 2018 – Jun 2022*: **Bachelor of Electronic Engineering**,
+  China University of Mining and Technology.
 
 <span class='anchor' id='experience'></span>
 
 # Experience
 
-- *[时间]*, [Research Intern / Research Assistant], [机构名称].
-
-- *[时间]*, [职位名称], [机构名称].
+My research experience includes semantic communication, generative models,
+LLM-enabled wireless systems, intelligent semantic agents, image transmission,
+speech transmission, and retrieval-augmented language models for mobile edge
+computing.
 
 <span class='anchor' id='services'></span>
 
 # Academic Services
 
-- Reviewer for [期刊或会议名称].
-- Teaching Assistant for [课程名称].
-- Member of [实验室、学术组织或项目名称].
+- Reviewer for *IEEE Wireless Communications Letters (WCL)*.
 
 <span class='anchor' id='contact'></span>
 
 # Contact
 
-Email: [你的公开邮箱]
+Email: [223010145@link.cuhk.edu.cn](mailto:223010145@link.cuhk.edu.cn)
 
 Google Scholar:
-[https://scholar.google.com/citations?user=hOG8ui0AAAAJ](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
+[Weiwen Yuan](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
