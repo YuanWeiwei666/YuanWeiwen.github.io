@@ -36,7 +36,7 @@ task requirements, and network resources.
 
 [Google Scholar](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
 &nbsp;·&nbsp;
-[Download CV](/YuanWeiwen.github.io/files/CV.pdf)
+[Download CV](/YuanWeiwen.github.io/Weiwen_Yuan_Semantic_Communication_CV.pdf)
 &nbsp;·&nbsp;
 [Email](mailto:223010145@link.cuhk.edu.cn)
 <span class='anchor' id='research'></span>
