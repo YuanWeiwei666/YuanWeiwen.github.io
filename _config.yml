@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weiwen Yuan"
-description              : "Research on semantic communication, generative AI, and intelligent wireless systems."
-repository               : "YuanWeiwei666/YuanWeiwen.github.io"
-google_scholar_stats_use_cdn : true
+title: "Weiwen Yuan"
+description: "Research on semantic communication, generative AI, and intelligent wireless systems."
+repository: "YuanWeiwei666/YuanWeiwen.github.io"
+google_scholar_stats_use_cdn: true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
