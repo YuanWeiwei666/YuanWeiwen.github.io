@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "Semantic Communication · Deep Learning · LLM· Agent"
   location         : "Shenzhen, China"
-  employer         :  The Chinese University of Hong Kong, Shenzhen
+  employer:         "The Chinese University of Hong Kong, Shenzhen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hOG8ui0AAAAJ"
   email            : "weiwenyuan1@link.cuhk.edu.cn"
