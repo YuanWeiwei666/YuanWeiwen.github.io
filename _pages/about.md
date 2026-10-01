@@ -17,42 +17,126 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am [a Ph.D. student / research assistant / researcher] at
+**The Chinese University of Hong Kong, Shenzhen**.
 
+My research focuses on **semantic communication**, **deep learning**,
+and **intelligent wireless communication systems**.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am particularly interested in developing communication systems that
+can transmit and recover the semantic information of multimodal data,
+including images, speech, and other complex signals.
 
-# 📝 Publications 
+I am also interested in the integration of large language models,
+generative models, and intelligent agents with next-generation
+wireless communication systems.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Google Scholar](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
+&nbsp;·&nbsp;
+[Download CV](/files/CV.pdf)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span class='anchor' id='research'></span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# Research
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+My current research interests include:
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Semantic Communication:** semantic representation, semantic coding,
+  and task-oriented communication.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Generative Semantic Communication:** generative models for image,
+  speech, and multimodal information transmission.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Intelligent Wireless Agents:** large language models and semantic
+  agents for adaptive wireless communication.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Deep Learning for Wireless Systems:** deep learning methods for
+  efficient and reliable communication over wireless channels.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='news'></span>
+
+# News
+
+- *2026*: Several papers on semantic communication and intelligent
+  semantic agents were published or accepted.
+
+- *2025*: Research on generative semantic communication for image
+  transmission and large semantic agents was presented at IEEE conferences.
+
+[请继续添加你的入学、获奖、实习、论文接收等真实消息]
+
+<span class='anchor' id='publications'></span>
+
+# Selected Publications
+
+## 2026
+
+**Semantic-Aware Intelligent Agent for Multi-Task Image Communications**  
+Weiwen Yuan, Jinke Ren, Xuhui Zhang, Tianqi Jiang, Ye Zhang, Rui Sun, Shuguang Cui  
+*IEEE Transactions on Cognitive Communications and Networking*, 2026  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:IjCSPb-OGe4C) · [Paper](请替换为论文链接)
+
+**AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission**  
+Weiwen Yuan, Jiahao Zheng, Jinke Ren, Xuhui Zhang, Yanyan Shen, Zheng Xing, Shuqiang Wang, Shuguang Cui  
+*IEEE Transactions on Consumer Electronics*, 2026  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:qjMakFHDy7sC) · [Paper](请替换为论文链接)
+
+**Mobile Edge Computing with Retrieval-Augmented Large Language Models: A Tutorial**  
+Runtao Ren, Weiwen Yuan, Tianqi Jiang, Xuhui Zhang, Yinyu Wu, Jinke Ren, Zheng Xing, Chunjie Wang, Huijun Xing, Yanyan Shen, Shuqiang Wang, Kim Fung Tsang  
+*IEEE Transactions on Consumer Electronics*, 2026  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:UeHWp8X0CEIC) · [Paper](请替换为论文链接)
+
+**Generative Semantic Communication: Architectures, Technologies, and Applications**  
+Jinke Ren, Yaping Sun, Hongyang Du, **Weiwen Yuan**, Chongjie Wang, Xianda Wang, Yingbin Zhou, Ziwei Zhu, Fangxin Wang, Shuguang Cui  
+*Engineering*, 2026  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u-x6o8ySG0sC) · [Paper](请替换为论文链接)
+
+## 2025
+
+**Generative Semantic Communication for Joint Image Transmission and Segmentation**  
+Weiwen Yuan, Jinke Ren, Chongjie Wang, Ruichen Zhang, Jun Wei, Dong In Kim, Shuguang Cui  
+*2025 IEEE International Conference on Communications Workshops*, 2025  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u5HHmVD_uO8C) · [Paper](请替换为论文链接)
+
+**Large Semantic Agents for Wireless Image Transmission**  
+Weiwen Yuan, Jinke Ren, Rui Sun, Yatong Han, Shuguang Cui  
+*2025 IEEE SPAWC Workshop*, 2025  
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:9yKSN-GCB0IC) · [Paper](请替换为论文链接)
+
+<span class='anchor' id='education'></span>
+
+# Education
+
+- *[起止年份]*, **[博士学位名称]**, [具体院系],  
+  The Chinese University of Hong Kong, Shenzhen.
+
+- *[起止年份]*, **[硕士学位名称]**, [学校名称].
+
+- *[起止年份]*, **[本科学位名称]**, [学校名称].
+
+<span class='anchor' id='experience'></span>
+
+# Experience
+
+- *[时间]*, [Research Intern / Research Assistant], [机构名称].
+
+- *[时间]*, [职位名称], [机构名称].
+
+<span class='anchor' id='services'></span>
+
+# Academic Services
+
+- Reviewer for [期刊或会议名称].
+- Teaching Assistant for [课程名称].
+- Member of [实验室、学术组织或项目名称].
+
+<span class='anchor' id='contact'></span>
+
+# Contact
+
+Email: [你的公开邮箱]
+
+Google Scholar:
+[https://scholar.google.com/citations?user=hOG8ui0AAAAJ](https://scholar.google.com/citations?user=hOG8ui0AAAAJ)
