@@ -135,6 +135,26 @@ Runtao Ren, **Weiwen Yuan**, Tianqi Jiang, Xuhui Zhang, Yinyu Wu, Jinke Ren, Zhe
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/generative-semcom-review.jpg'
+     alt='Generative Semantic Communication paper overview'
+     width='100%'>
+</div>
+<div class='paper-box-text' markdown='1'>
+
+**Generative Semantic Communication: Architectures, Technologies, and Applications**
+
+Jinke Ren, Yaping Sun, Hongyang Du, **Weiwen Yuan**, Chongjie Wang, Xianda Wang, Yingbin Zhou, Ziwei Zhu, Fangxin Wang, Shuguang Cui
+
+*Engineering*, vol. 56, pp. 45–61, 2026
+
+[Paper](https://doi.org/10.1016/j.eng.2025.07.022) ·
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hOG8ui0AAAAJ&citation_for_view=hOG8ui0AAAAJ:u-x6o8ySG0sC)
+
+</div>
+</div>
+
 ## 2025
 
 <div class='paper-box'>
