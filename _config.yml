@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weiwen Yuan"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Semantic Communication · Deep Learning · LLM· Agent"
   location         : "Shenzhen, China"
   employer         :  The Chinese University of Hong Kong, Shenzhen
