@@ -200,16 +200,27 @@ Weiwen Yuan, Jinke Ren, Chongjie Wang, Ruichen Zhang, Jun Wei, Dong In Kim, Shug
 
 # Education
 
-- *Sep 2023 – Present*: **Ph.D. Student**, Future Network of Intelligence Institute
-  (FNii), The Chinese University of Hong Kong, Shenzhen.
+- *Sep 2023 – Present*: **Ph.D. in Computer and Information Engineering**,
+  School of Science and Engineering, The Chinese University of Hong Kong,
+  Shenzhen.  
+  Supervisor: Prof. Shuguang Cui. Expected completion: May 2027.
 
-- *Sep 2022 – Jul 2023*: **Master of Electronic Engineering**,
+- *Sep 2022 – Jul 2023*: **Master of Science in Electronic Engineering**,
   The Chinese University of Hong Kong.
 
-- *Sep 2018 – Jun 2022*: **Bachelor of Electronic Engineering**,
+- *Sep 2018 – Jun 2022*: **Bachelor's Degree in Electronic Engineering**,
   China University of Mining and Technology.
 
 <span class='anchor' id='experience'></span>
+# Doctoral Research Experience
+
+Since September 2023, I have been conducting research on multi-task semantic
+communication for wireless image, speech, and video transmission under the
+supervision of Prof. Shuguang Cui.
+
+My work includes generative semantic communication, LLM-based semantic agents,
+AudioLLM-enabled speech transmission, retrieval-augmented language models for
+mobile edge computing, and task-adaptive video semantic communication.
 
 # Experience
 
