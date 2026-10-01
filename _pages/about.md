@@ -86,7 +86,7 @@ My research interests include:
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/lisa.jpg' alt='Semantic-Aware Intelligent Agent for Multi-Task Image Communications' width='100%'>
+<img src='images/lisa.png' alt='Semantic-Aware Intelligent Agent for Multi-Task Image Communications' width='100%'>
 </div>
 <div class='paper-box-text' markdown='1'>
 
@@ -103,7 +103,7 @@ Weiwen Yuan, Jinke Ren, Xuhui Zhang, Tianqi Jiang, Ye Zhang, Rui Sun, Shuguang C
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/audiollm.jpg' alt='AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission' width='100%'>
+<img src='images/AudioLLM2.png' alt='AudioLLM-Enabled Semantic Communication for Multi-Task Speech Transmission' width='100%'>
 </div>
 <div class='paper-box-text' markdown='1'>
 
@@ -120,7 +120,7 @@ Weiwen Yuan, Jiahao Zheng, Jinke Ren, Xuhui Zhang, Yanyan Shen, Zheng Xing, Shuq
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/rag-mec.jpg' alt='Retrieval-Augmented Large Language Models for Mobile Edge Computing' width='100%'>
+<img src='images/RAG.png' alt='Retrieval-Augmented Large Language Models for Mobile Edge Computing' width='100%'>
 </div>
 <div class='paper-box-text' markdown='1'>
 
@@ -137,7 +137,7 @@ Runtao Ren, **Weiwen Yuan**, Tianqi Jiang, Xuhui Zhang, Yinyu Wu, Jinke Ren, Zhe
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/generative-semcom-review.jpg'
+<img src='images/gen.png'
      alt='Generative Semantic Communication paper overview'
      width='100%'>
 </div>
@@ -159,7 +159,7 @@ Jinke Ren, Yaping Sun, Hongyang Du, **Weiwen Yuan**, Chongjie Wang, Xianda Wang,
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/large-semantic-agents.jpg' alt='Large Semantic Agents for Wireless Image Transmission' width='100%'>
+<img src='images/large-semantic-agents.png' alt='Large Semantic Agents for Wireless Image Transmission' width='100%'>
 </div>
 <div class='paper-box-text' markdown='1'>
 
@@ -177,7 +177,7 @@ for Wireless Communications (SPAWC)*, 2025
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/generative-semantic.jpg' alt='Generative Semantic Communication for Joint Image Transmission and Segmentation' width='100%'>
+<img src='images/generative-semantic.png' alt='Generative Semantic Communication for Joint Image Transmission and Segmentation' width='100%'>
 </div>
 <div class='paper-box-text' markdown='1'>
 
