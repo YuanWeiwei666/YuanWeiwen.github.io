@@ -58,6 +58,13 @@ My research interests include:
 - **Deep Learning for Wireless Communications:** deep learning methods for
   reliable and efficient communication over future wireless networks.
 
+  - **Adaptive Video Semantic Communication:** task-adaptive video transmission
+  for video question answering, including edge-coordinated instruction
+  adaptation and routing evolution.
+
+- **Agentic Semantic Communication:** intelligent agents for reasoning about
+  communication tasks, channel conditions, and network resources.
+
 <span class='anchor' id='news'></span>
 
 # News
@@ -194,6 +201,15 @@ Weiwen Yuan, Jinke Ren, Chongjie Wang, Ruichen Zhang, Jun Wei, Dong In Kim, Shug
 </div>
 </div>
 
+<span class='anchor' id='manuscripts'></span>
+
+# Manuscripts Under Review
+
+- **When Evolution Comes to Semantic Communication: Edge-Coordinated Instruction and Routing Evolution for Video Question Answering**  
+  *Submitted to IEEE Transactions on Wireless Communications (TWC).*
+
+- **Edge-Coordinated Self-Evolving Semantic Communication for Video Question Answering**  
+  *Submitted to IEEE International Conference on Communications (IEEE ICC).*
 <span class='anchor' id='education'></span>
 
 # Education
