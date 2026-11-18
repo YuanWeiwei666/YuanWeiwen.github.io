@@ -38,7 +38,7 @@ task requirements, and network resources.
 &nbsp;·&nbsp;
 [Email](mailto:223010145@link.cuhk.edu.cn)
 &nbsp;·&nbsp;
-[Download CV](/YuanWeiwen.github.io/Weiwen_Yuan_Semantic_Communication_CV_2026.pdf)
+[Download CV](/YuanWeiwen.github.io/Weiwen_Yuan_CV.pdf)
 <span class='anchor' id='research'></span>
 
 # Research
